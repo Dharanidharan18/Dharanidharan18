@@ -1,5 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+Don't+Know+Me+Son!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
+![MasterHead](https://wallpapers.com/images/hd/david-goggins-vector-art-gcxxrfgh90x5lpel.jpg)
 <!--
 **Dharanidharan18/Dharanidharan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
